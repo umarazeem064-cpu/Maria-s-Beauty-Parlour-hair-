@@ -1,0 +1,6 @@
+{
+  "name": "Maria's Beauty Parlour — Hair & Skin Care",
+  "description": "Luxury hair artistry, clinical skin care, bridal makeup, and spa studio located at Moon Garden Apartments, Block 10-A / 11, Gulshan-e-Iqbal, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
